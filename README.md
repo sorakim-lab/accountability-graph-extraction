@@ -34,4 +34,4 @@ FDA Warning Letter corpus (N=50, 21 CFR 210/211, 2016–2025)
 - [Premature Convergence Detection](https://github.com/sorakim-lab/premature-convergence-detection)
 
 ## Reference
-Kim, S. (2026). Anticipated Accountability Convergence. SSRN 6371980.
+Kim, S. (2026). Anticipated Accountability Convergence. SSRN Preprint.
